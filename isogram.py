@@ -1,3 +1,5 @@
+
+#finds if the word has repeat characters
 def is_isogram(x):
 	l = []
 	is_gram = True;
